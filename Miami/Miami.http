@@ -1,0 +1,6 @@
+@Miami_HostAddress = http://localhost:5036
+
+GET {{Miami_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
